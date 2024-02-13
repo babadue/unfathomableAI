@@ -11,7 +11,9 @@
 I then put together a small test dataset to run through three models.  The results are:
 
 PEFT model got %77 
+
 Full fine tuning model got %50   (the Washington or Washington, D. C. )
+
 Base model got %27
 
 
